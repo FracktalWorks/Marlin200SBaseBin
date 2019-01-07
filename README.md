@@ -1,4 +1,4 @@
-# Marlin200SbaseBin  [![Build Status](https://travis-ci.com/FracktalWorks/Marlin200Sbase.svg?branch=master)](https://travis-ci.com/FracktalWorks/Marlin200Sbase)
+# Marlin200SbaseBin  [![Build Status](https://travis-ci.com/FracktalWorks/Marlin200SbaseBin.svg?branch=master)](https://travis-ci.com/FracktalWorks/Marlin200SbaseBin)
 Firmware for MKS SBASE
 
 ---
